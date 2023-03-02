@@ -1,11 +1,10 @@
-Hi there! I'm a student in software engineering and aim to be a game developer.
-Im currently tinkering with the following languages & technologies :
+![](https://github.com/Sandai64/sandai64/blob/main/got-it-yes.gif?raw=true)
 
-- VueJS
-- C, C++
-- Python
-- PHP
+Hello there !
+I'm a junior developer, currently studying software architecture @ Lyon ✌️
 
-You can offer me a coffee if you feel like it !
+Looking forward to try Systems Programming, with languages such as :
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H15UWWK)
+- C
+- x86 assembly
+- Rust

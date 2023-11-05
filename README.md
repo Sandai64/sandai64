@@ -1,11 +1,4 @@
-Hi there! I'm a student in software engineering and aim to be a game developer.
-Im currently tinkering with the following languages & technologies :
-
-- VueJS
-- C, C++
-- Python
-- PHP
-
-You can offer me a coffee if you feel like it !
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H15UWWK)
+Full-stack developer working with the following technologies :
+- Languages : Java, Dart, Rust, JS/TS, Bash, Python, PHP, SQL.
+- OS & Containers : Docker, K8s, Linux, LXD/LXC.
+- Frameworks : Flutter, VueJS, FuelPHP, Symfony, ReactJS.
